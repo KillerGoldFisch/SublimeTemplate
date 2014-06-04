@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "Template: Render to View",
+        "command": "templ_view"
+    },
+    {
+        "caption": "Template: Render to File",
+        "command": "templ_file"
+    }
+]
